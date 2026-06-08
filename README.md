@@ -200,7 +200,7 @@ class Developer:
 [![Portfolio](https://img.shields.io/badge/Portfolio-educhrono.com-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://educhrono.com)
 
 **Phone:** +91 7010155286  
-**Location:** Dindigul, Tamil Nadu 🇮🇳
+**Location:** Madurai, Tamil Nadu 🇮🇳
 
 </div>
 
